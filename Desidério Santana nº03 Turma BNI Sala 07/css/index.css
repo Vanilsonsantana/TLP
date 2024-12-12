@@ -1,0 +1,133 @@
+body{
+    flex-wrap: wrap;
+    
+    padding: auto;
+    margin: auto;
+
+}
+.banner{
+ 
+    padding: 1px 4%;
+    
+    background-color: darkgray;
+    border: darkgray solid 20px;
+
+   
+}
+.form{
+    display: flex;
+    
+    justify-content: center;
+    
+    
+   
+    
+    
+}
+.ed{
+    margin-top: 10px;
+    color: blue;
+}
+.de{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.de strike{
+    color: blue;
+}
+.str{
+   
+    font-size: 30px;
+    
+}
+form strong{
+    font-size: 20px;
+    padding: 10px 5%;
+    
+}
+.se{
+    cursor: pointer;
+}
+.in input{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 300px;
+    font-size: 20px;
+    border: darkgray solid 5px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.pv select{
+    width: 300px;
+    font-size: 20px;
+    border: darkgray solid 5px;
+    border-radius: 20px;
+}
+.ob{
+    width: 300px;
+}
+.bt{
+    width: 300px;
+    border-radius: 20px;
+ 
+}
+button{
+    border: darkgray solid 10px;
+    border-radius: 20px;
+    background-color: darkgray;
+}
+textarea{
+    border: darkgray solid 5px;
+    border-radius: 20px;
+}
+.ft{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: darkgray;
+    padding: 10px 15%;
+    border: darkgray solid 10px;
+
+}
+.direita{
+    background-color: darkgray;
+   
+}
+.centro{
+    font-size: 15px;
+    background-color: darkgray;
+}
+a{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.esquerda{
+    background-color: darkgray;
+    
+}
+img{
+    width: 50px;
+    margin: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    gap: 10px;
+}
+.table{
+    border: darkgray solid 10px;
+    border-radius: 20px;
+    
+}
+.tr{
+    
+    background-color: darkgray;
+}
+
